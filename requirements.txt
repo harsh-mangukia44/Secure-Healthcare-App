@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn[standard] # For running FastAPI
+pandas
+pydantic
+bcrypt
+cryptography # For Fernet
+PyMuPDF # Fitz, for PDF parsing
+Pillow # PIL, for image handling
+matplotlib # For plotting
+streamlit-option-menu # For better navigation
+python-dotenv # To manage environment variables like encryption key
